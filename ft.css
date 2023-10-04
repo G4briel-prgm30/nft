@@ -1,0 +1,128 @@
+body {
+    background-color: hsl(217, 54%, 11%);
+    margin: 0;
+    font-family: outfit;
+}
+
+.mae {height:100vh ;
+    
+}
+
+.son {
+     height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+.nft {
+    position: absolute;
+    border: 15px solid hsl(216, 50%, 16%);
+    border-bottom:  solid  hsl(216, 50%, 16%) ;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    background-color: hsl(216, 50%, 16%);
+}
+
+.img {border-radius: 5px;
+    width: 230px;
+    height: 230px;
+    
+}
+.nft > h1 {
+    font-size: 17px;
+    color: white;
+}
+
+.nft > p {font-size: 14px;
+    color: hsl(215, 51%, 70%);
+    margin: 0;
+}
+
+.s {margin-top: 17px;
+    display: flex;
+flex-direction: column;
+position: relative;
+
+
+}
+
+.icon {
+    height: 30px;
+    width: 30px;
+    margin-top:10px ;
+    border: 1px solid white;
+    border-radius: 15px;
+    
+    
+    
+    
+
+}
+
+.sv {position: relative;
+}
+
+.vs {margin-left: 140px;
+    margin-bottom:1px ;
+    position: absolute;
+    
+   
+   
+    
+
+}
+
+
+.pp {position: relative;
+    font-size: 15px;
+    margin: 0;
+    left: 3px;
+    top: 14px;
+    font-family: outfit;
+    color: hsl(215, 51%, 70%);
+    
+   
+
+}
+
+.footer {position: absolute;
+    border-top: 1px solid hsl(215, 32%, 27%);
+    width: 225px;
+    margin-top: 0px;
+    display: flex;
+    
+    top: 40px;
+   
+    
+    
+}
+.sect {
+    position: relative;
+    left:15px;
+    bottom: 30px;
+    display:flex;
+    font-size: 13px;
+    
+    color: hsl(178, 100%, 50%);
+}
+
+.jp{
+    position: relative;
+    left: 160px;
+    top: -77px;
+    font-size: 15px;
+    color: hsl(215, 51%, 70%);
+}
+.ppj {
+    position: relative;
+    top: -2px;
+    left: 8px;
+    color: hsl(0, 0%, 100%);
+    font-size: 15px;
+}
+
+
